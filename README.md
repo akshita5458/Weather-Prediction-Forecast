@@ -1,4 +1,5 @@
-# Weather-Prediction-Forecasting
+# "Enhanced Weather Prediction Using Machine Learning and Data Analytics"
+
 # Weather Prediction Application
 
 This is a simple weather prediction application built using Python and Tkinter. It allows users to enter information such as the date, precipitation, maximum temperature, minimum temperature, and wind speed. Based on these inputs, the application predicts the weather using a decision tree classifier.
